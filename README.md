@@ -2,7 +2,7 @@
 # Node
 npm start
 
- or run tests
+# or run tests
 npm test
 
 # Python
