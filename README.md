@@ -6,4 +6,4 @@ npm start
 npm test
 
 # Python
-python main.py  11hpt
+python main.py  11hp
